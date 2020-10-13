@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is Research Data?
+title: ResearchDataDef
 nav_order: 2
 has_children: true
 ---
