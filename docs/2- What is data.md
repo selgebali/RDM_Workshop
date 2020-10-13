@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: What is Research Data?
 nav_order: 2
 has_children: true
 ---
@@ -8,9 +8,8 @@ has_children: true
 
 # Tutorials
 {: .fs-8 }
-This workshop is created by Sara El-Gebali and Özlem Özkan
 
-
+Research Data Management workshop
 {: .fs-6 .fw-300 }
 
 ---
