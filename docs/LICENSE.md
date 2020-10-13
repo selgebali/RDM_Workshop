@@ -14,4 +14,4 @@ How to cite and reuse these pages
 
 ---
 
- This project is licensed under the terms of the CC-BY-4.0 license.(https://choosealicense.com/licenses/cc-by-4.0/)
+ This project is licensed under the terms of the [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/).
