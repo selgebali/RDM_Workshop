@@ -1,0 +1,21 @@
+---
+layout: default
+title: What is Meta Data?
+nav_order: 2
+parent: What is Research Data?
+has_children: false
+--- 
+
+# What is Meta data?
+
+Metadata is data about data. In other words, it is the data that provides essential context and relevant information about how the data was created, stored and shared. 
+For instance, metadata can describe various aspects related to an experimental procedure such as; who carried out the experiment, which parameters were chosen, what type of equipment was used, the output and results, how the results were analysed, shared and used. 
+
+
+# Why do we need Meta data?
+
+
+
+
+
+# How do we collect Meta data?
