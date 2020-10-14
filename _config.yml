@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-title: Research Data Management Workshop Material
+title: Research Data Management
 description: Tutorials and exercises for Research Data management workshops
 # Aux links for the upper right navigation
 baseurl: "/RDM_Workshop" # the subpath of your site, e.g. /blog
