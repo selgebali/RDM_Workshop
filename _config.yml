@@ -13,11 +13,11 @@ footer_content: "This project is licensed under the terms of the <a href=\"https
 back_to_top: true
 back_to_top_text: "Back to top"
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/selgebali/RDM_Workshop" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
+#gh_edit_link: true # show or hide edit this page link
+#gh_edit_link_text: "Edit this page on GitHub"
+#gh_edit_repository: "https://github.com/selgebali/RDM_Workshop" # the github URL for your repo
+#gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-color_scheme: light
+color_scheme: dark
 #logo: /img/logo2.png
