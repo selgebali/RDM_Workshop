@@ -1,3 +1,7 @@
+---
+title: Home
+nav_order: 1
+---
 
 # Research Data Management workshop material
 Hi and Welcome to our collection. 
