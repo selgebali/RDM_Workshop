@@ -19,6 +19,6 @@ back_to_top_text: "Back to top"
 #gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-color_scheme: dark
+color_scheme: light
 # nav_exclude: true
 #logo: /img/logo2.png
